@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**Sushanta-Das/Sushanta-Das** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**I'm Sushanta Das.** 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on enhancing my skills in full-stack development and exploring the latest trends in web technologies.
+- 🌱 🌱 I’m currently learning advanced React.js, Node.js, and diving into the world of DevOps
+- 👯 I’m looking to collaborate on exciting open-source projects and innovative web applications.
+- 🤔 I’m looking for help with mastering Api development and DevOps.
+- 💬 Ask me about anything related to JavaScript, React, Node js or web development in general.
+- 📫 How to reach me:
+
+    Email: sushantadas.work@gmail.com <br>
+    LinkedIn: [linkedin.com/in/sushanta-das2002](https://www.linkedin.com/in/sushanta-das2002/)
+
+

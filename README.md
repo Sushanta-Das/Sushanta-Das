@@ -7,10 +7,10 @@
 ---
 
 ## 🚀 About Me
-- 💡 Exploring Web Development, DevOps, Blockchain, and AI.
+- 💡 Exploring Full Stack Web Development, DevOps and GenAI.
 - 💻 Proficient in **JavaScript**, **Node.js**,**Python**,**C++**, **React.js**, **MongoDB**, **Docker**, and **Git**.
-- 🧠 Solved 270+ problems on various platforms like leetcode and GFG, and participated in competitive coding contests.
-- 📚 Currently building full-stack projects and learning advanced backend concepts.
+- 🧠 Solved 270+ Coding problems using Data Structures and Algorithms on various platforms like leetcode and GFG, and participated in competitive coding contests.
+- 📚 Actively building industry-grade full-stack applications while mastering advanced backend architectures and scalable system design.
 
 ---
 

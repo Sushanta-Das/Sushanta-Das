@@ -17,12 +17,17 @@
 ## 🔧 Tech Stack & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)  
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat-square&logoColor=black) 
+
 
 ---
 
